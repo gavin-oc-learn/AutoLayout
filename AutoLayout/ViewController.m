@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+//    UIEventSubtypeMotionShake
     // Do any additional setup after loading the view, typically from a nib.
 }
 
